@@ -2,6 +2,19 @@ h1 {
     color: red;
 }
 
-p {
-    color: #1ca3c5;
-}
+
+/*style {
+    table,
+    th,
+    td {
+
+        border: 1px solid black;
+
+}*/
+table,
+    th,
+    td {
+
+        border: 1px solid black;
+
+    }
