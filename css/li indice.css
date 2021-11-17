@@ -1,8 +1,15 @@
+
+
 li {
     color: rgb(43, 167, 224);
 }
 
-body {
+img {
     background-image: url("/imagenes/1.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+    border-radius: 10%;
+    border: 1px solid rgb(140, 0, 255);
+    box-shadow: 0px 0px 20px 8px rgba(3, 2, 3, 0.5)
 }
