@@ -1,24 +1,36 @@
-h1 {
-    color: crimson;
-    ;
+@import url('https://fonts.googleapis.com/css2?family=Spectral');
+* {
+    font-family: 'Spectral';
 }
 
-h2 {
-    color: crimson;
-}
-
-/*style {
-    table,
-    th,
-    td {
-
-        border: 2px solid black;
-
-}*/
 table,
     th,
     td {
-
         border: 2px solid black;
+    
+    }
+table {
+    height: 98vh;
+    width: 100%;
+}
+    .abuela {
+        size: 64px;
+        font-size: 64px;
+        background-color: aliceblue;
+        color: red;
+    }
 
+    .patatas {
+        size: 64px;
+        font-size: 64px;
+        background-color: deepskyblue;
+        color: red;
+
+    }
+
+    body {
+        background-color: cornflowerblue;
+    }
+    .taco {
+        background-color: deepskyblue;
     }
