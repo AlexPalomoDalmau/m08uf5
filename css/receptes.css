@@ -1,0 +1,24 @@
+h1 {
+    color: crimson;
+    ;
+}
+
+h2 {
+    color: crimson;
+}
+
+/*style {
+    table,
+    th,
+    td {
+
+        border: 2px solid black;
+
+}*/
+table,
+    th,
+    td {
+
+        border: 2px solid black;
+
+    }
