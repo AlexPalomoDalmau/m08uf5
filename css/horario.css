@@ -1,0 +1,38 @@
+table th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+	
+}
+	
+.m04 {
+	background-color: gray;
+}
+	
+.m06 {
+	background-color: rgb(19, 247, 76);
+}
+	
+.m07 {
+	background-color: rgb(228, 241, 38);
+}
+	
+.m08 { 
+	background-color: rgb(56, 223, 223);
+}
+	
+.m10 {
+	background-color: #FF0F0F;
+}
+.tut {
+
+	background-color: rgb(252, 152, 1);
+}
+.almuerzo {
+
+	text-align: center;
+
+}
+
+	
+	
