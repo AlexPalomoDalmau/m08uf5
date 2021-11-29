@@ -8,6 +8,8 @@ table, th, td, tr {
 	text-align: center;
 	margin-left: auto;
     margin-right: auto;
+    height: 300px;
+    width: 1000px;
 }
 
 .centro {
@@ -31,11 +33,7 @@ table, th, td, tr {
     background-color: hotpink;
 }
 
-table {
-    height: 300px;
-    width: 800px;
-}
+.centro {
+    text-align: center;
 
-h1 {
-    font-size: 50px;
 }
