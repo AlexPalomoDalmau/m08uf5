@@ -1,12 +1,76 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario</title>
+    <link rel="stylesheet" href="../css/formulario.css">
 </head>
+
 <body>
-    
+    <h1>Formulario</h1>
+    <form>
+        <fieldset class="infbas">
+            <legend><u>Informacion Basica</u></legend>
+
+            <label for="fname">Nombre</label>
+            <br>
+            <input type="text">
+            <br>
+            <br>
+            <label for="text">Altura en centimetros</label>
+            <br>
+            <input type="number">
+            <br>
+            <br>
+            <label for="email">Email</label>
+            <br>
+            <input type="text">
+            <br>
+            <br>
+            <label for="bdaymonth">Fecha Nacimiento</label>
+            <br>
+            <input type="date">
+
+        </fieldset>
+        <fieldset class="nacio">
+            <legend><u> Nacionalidad</u></legend>
+            <input type="radio" name="ESPAÑOLA" id="Española">
+            <label for="Española">Española</label>
+            <input type="radio" name="Comunitario(UE)" id="Comunitario">
+            <label for="Comunitario(UE)">Comunitario(UE)</label>
+            <input type="radio" name="nocomunitario" id="nocomunitario">
+            <label for="No Comunitario">No Comunitario</label>
+        </fieldset>
+        <fieldset class="est">
+            <legend><u>Estudios</u></legend>
+            <select name="Grados">
+                <option value="SMX">SMX</option>
+                <option value="ASIX">ASIX</option>
+                <option value="DAW">DAW</option>
+                <option value="DAW-BIO">DAW-BIO</option>
+                <option value="DAM">DAM</option>
+            </select>
+        </fieldset>
+        <fieldset class="idi">
+            <legend><u>Idiomas</u></legend>
+            <input type="checkbox" name="Castellano">
+            <label for="Castellano">Castellano</label>
+            <input type="checkbox" name="Catalan">
+            <label for="Catalan">Catalan</label>
+            <input type="checkbox" name="Ingles">
+            <label for="Ingles">Ingles</label>
+            <input type="checkbox" name="Chino">
+            <label for="Chino">Chino</label>
+        </fieldset>
+        <fieldset class="final">
+            <input type="submit" value="Enviar" name="Enviar">
+            <input type="button" value="Cancelar">
+        </fieldset>
+
+    </form>
 </body>
+
 </html>

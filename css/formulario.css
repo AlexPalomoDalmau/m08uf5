@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: rgb(7, 42, 243);
+}
+legend {
+    font-size: 27px;
+}
+
+.infbas {
+    background-color: orangered;
+    text-align: left;
+}
+.nacio {
+    background-color: darkkhaki;
+    text-align: left;
+}
+
+.est {
+    background-color: pink;
+    text-align: left;
+}
+
+.idi {
+    background-color: aquamarine;
+    text-align: left;
+}
+
+.final {
+    background-color: grey;
+}
