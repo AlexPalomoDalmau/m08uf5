@@ -1,0 +1,110 @@
+.supremo {
+    width: 600px;
+    height: 600px;
+}
+.tabla1 {
+    width: 400px;
+    float: left;
+}
+.tabla2 {
+    width: 200px;
+    float: right;
+}
+.uno {
+    background-color: rgb(80, 128, 35);
+    height: 97px;
+    width: 397px;
+    float: left;
+    margin-bottom: 3px;
+    margin-right: 3px;
+}
+.dos {
+    background-color: black;
+    height: 197px;
+    width: 197px;
+    float: left;
+    margin-bottom: 3px;
+    margin-right: 3px;
+}
+.tres {
+    background-color: rgb(80, 128, 35);
+    height: 297px;
+    width: 197px;
+    float: right;
+    margin-bottom: 3px;
+    margin-right: 3px;
+}
+
+.cuatro {
+    background-color: rgb(80, 128, 35);
+    height: 97px;
+    width: 197px;
+    float: left;
+    margin-bottom: 3px;
+    margin-right: 3px;
+}
+
+.cinco {
+    background-color: black;
+    height: 197px;
+    width: 197px;
+    float: left;
+    margin-bottom: 3px;
+    margin-right: 3px;
+}
+
+.seis {
+    background-color: rgb(147, 207, 91);
+    height: 97px;
+    width: 197px;
+    float: left;
+    margin-bottom: 3px;
+    margin-right: 3px;
+}
+
+.siete {
+    background-color: rgb(147, 207, 91);
+    height: 97px;
+    width: 197px;
+    float: left;
+    margin-bottom: 3px;
+    margin-right: 3px;
+}
+
+.ocho {
+    background-color: rgb(147, 207, 91);
+    height: 97px;
+    width: 200px;
+    float: right;
+    margin-bottom: 3px;
+}
+.nueve {
+    background-color: rgb(80, 128, 35);
+    height: 97px;
+    width: 200px;
+    float: right;
+    margin-bottom: 3px;
+}
+.diez {
+    background-color: rgb(147, 207, 91);
+    height: 97px;
+    width: 200px;
+    float: right;
+    margin-bottom: 3px;
+}
+
+.onze {
+    background-color: black;
+    height: 197px;
+    width: 200px;
+    float: left;
+    margin-bottom: 3px;
+}
+
+.doce {
+    background-color: rgb(80, 128, 35);
+    height: 97px;
+    width: 200px;
+    float: right;
+    margin-bottom: 3px;
+}

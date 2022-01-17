@@ -1,0 +1,109 @@
+.div1 {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+}
+div>div:hover {
+    opacity: 50%;
+    border: solid rgb(2, 129, 117);
+}
+.uno {
+    height: 85px;
+    width: 598px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    background-image: url('https://piks-eldesmarqueporta.netdna-ssl.com/bin/2021/10/31/hasbulla_y_abdu_rozik.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+.dos {
+    height: 84px;
+    width: 198px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    position: absolute;
+    background-image: url('https://media.infocielo.com/p/d69bf937a03f356760c9328f643f88e4/adjuntos/299/imagenes/000/309/0000309484/375x250/smart/20200608185851_20200608-185929jpg.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.tres {
+    height: 256px;
+    width: 398px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    position: absolute;
+    right: 0px;
+    background-image: url('https://c.tenor.com/2co4feAipsYAAAAd/hasbulla-hasbik.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.cuatro {
+    height: 84px;
+    width: 198px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 86px;
+    position: absolute;
+    background-image: url('https://s1.eestatic.com/2021/11/03/actualidad/624449650_213753674_1024x576.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+.cinco {
+    height: 84px;
+    width: 198px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 172px;
+    position: absolute;
+    background-image: url('https://c.tenor.com/K_fk1dEUTzcAAAAM/mister-jagger-a.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.seis {
+    height: 85px;
+    width: 198px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 258px;
+    position: absolute;
+    background-image: url('https://i.pinimg.com/736x/55/57/37/5557378c720ebdf786e71beb34efede0.jpg');
+    background-size: 100% 120%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.siete {
+    height: 84px;
+    width: 198px;
+    right: 200px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 258px;
+    position: absolute;
+    background-image: url('https://www.xtrafondos.com/descargar.php?id=5846&resolucion=2560x1440');
+    background-size: 100% 120%;
+    background-repeat: no-repeat;
+    color: white;
+}
+.ocho {
+    height: 84px;
+    width: 198px;
+    right: 0px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 258px;
+    position: absolute;
+    background-image: url('https://c.tenor.com/IvBIKwbv6VIAAAAC/orange-juice-meme-orange-juice.gif');
+    background-size: 100% 120%;
+    background-repeat: no-repeat;
+    color: white;
+}
+

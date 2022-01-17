@@ -1,0 +1,103 @@
+.div1 {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+}
+.uno {
+    background-color: rgb(147, 207, 91);
+    height: 85px;
+    width: 598px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+}
+.dos {
+    background-color:rgb(80, 128, 35);
+    height: 84px;
+    width: 198px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    position: absolute;
+}
+
+.tres {
+    background-color: cadetblue;
+    height: 256px;
+    width: 398px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    position: absolute;
+    right: 0px;
+}
+
+.cuatro {
+    background-color: rgb(147, 207, 91);
+    height: 84px;
+    width: 198px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 86px;
+    position: absolute;
+}
+.cinco {
+    background-color:rgb(80, 128, 35);
+    height: 84px;
+    width: 198px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 172px;
+    position: absolute;
+}
+
+.seis {
+    background-color: black;
+    height: 170px;
+    width: 198px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 258px;
+    position: absolute;
+    color: gray;
+}
+
+.siete {
+    background-color: rgb(147, 207, 91);
+    height: 84px;
+    width: 198px;
+    right: 200px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 258px;
+    position: absolute;
+}
+
+.ocho {
+    background-color:rgb(80, 128, 35);
+    height: 84px;
+    width: 198px;
+    right: 200px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 344px;
+    position: absolute;
+}
+
+.nueve {
+    background-color: rgb(147, 207, 91);
+    height: 252px;
+    width: 198px;
+    right: 0px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 258px;
+    position: absolute;
+}
+
+.diez {
+    background-color: rgb(147, 207, 91);
+    height: 80px;
+    width: 398px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top: 430px;
+    position: absolute;
+}
