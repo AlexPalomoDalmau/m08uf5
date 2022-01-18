@@ -1,18 +1,75 @@
-main {
-
-    border: solid 1px black;
-
- }
 body {
 
     width: 830px;
+    background-color: #fef2cd;
 
 }
  
+.subtitulo {
+    width: 600px;
+    float: left;
+}
+
  .sirius {
 
-     height: 144px;
+    height: 144px;
+    float: left;
+ }
+
+ .izquierda1 {
+
+    width: 140px;
+    height: 173px;
+    float: left;
+    
+ }
+
+ .sighted {
+
+    width: 66%;
+    float: left;
+
 
  }
 
- 
+.derecha1 {
+
+    float: right;
+    width: 140px;
+
+
+
+}
+
+.izquierda2  {
+    margin-top: 5px;
+    float: left;
+    width: 140px;
+    height: 300px;
+}
+
+.gif {
+    margin-top: 4px;
+    width: 545px;
+    height: 450px;
+
+}
+
+.izquierda3 {
+    height: 290px;
+    width: 140px;
+    float: left;
+    margin-top: -140px;
+}
+
+.derecha2 {
+    height: 310px;
+    width: 140px;
+    margin-top: -150px;
+    float: right;
+}
+
+.piedefoto {
+
+    margin-left: 50px;
+}
