@@ -5,7 +5,7 @@
   
   .site-header {
     position: relative;
-    background-color: #def7ff; }
+    background-color: grey; }
   
   .site-header__wrapper {
     padding-top: 1rem;
@@ -50,3 +50,10 @@
         position: absolute;
         right: 1rem;
         top: 1rem; } }
+
+        .h1{
+          font-size: 30px;
+          margin-top: 40px;
+          text-align: center;
+          
+        }
