@@ -99,3 +99,31 @@ body {
   margin-left: 1650px;
   color: green;
 }
+
+#kizu2 {
+  margin-top: 100px;
+  width: 800px;
+  height: 600px;
+  margin-left: 100px;
+}
+
+#kizu3 {
+  margin-top: 20px;
+  height: 850px;
+  width: 1400px;
+  margin-left: 250px;
+}
+#kizu33 {
+  margin-top: 30px;
+  text-align: left;
+  font-size: 25px;
+  margin-left: 50px;
+  text-align: center;
+  
+}
+#kizu4 {
+  margin-top: 100px;
+  width: 800px;
+  height: 600px;
+  margin-left: 100px;
+}
