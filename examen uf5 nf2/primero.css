@@ -134,3 +134,36 @@ body {
   margin-top: 30px;
   margin-left: 55px;
 }
+
+#nunu2 {
+  height: 900px;
+  width: 1000px;
+  margin-left: 22%;
+}
+
+#nunu3 {
+  margin-left: 50px;
+  height: 600px;
+  width: 800px;
+  margin-left: 100px;
+}
+
+#nunu4 {
+  margin-left: 200px;
+  height: 700px;
+  width: 700px;
+  margin-top: 40px;
+}
+
+#nunu44 {
+  margin-top: 30px;
+  font-size: 25px;
+  text-align: center;
+  margin-left: 50px;
+}
+#titulo2 {
+  font-size: 40px;
+  color: #335C4E;
+  margin-top: 30px;
+  margin-left: 70px;
+}
