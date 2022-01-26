@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Spectral+SC:wght@200&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 .wrapper {
   max-width: 1140px;
@@ -5,6 +6,11 @@
   padding-right: 1rem;
   margin-left: auto;
   margin-right: auto;
+}
+
+.texto100 {
+  font-family: 'Poppins', sans-serif;
+  line-height: 30px;
 }
 
 *,
@@ -166,4 +172,29 @@ body {
   color: #335C4E;
   margin-top: 30px;
   margin-left: 70px;
+}
+
+#bone2 {
+  height: 900px;
+  width: 900px;
+  margin-top: 20px;
+  margin-left: 25%;
+}
+
+#bone3 {
+  height: 800px;
+  width: 700px;
+  margin-left: 90px;
+}
+
+#bone4 {
+  height: 700px;
+  width: 1100px;
+}
+
+#bone400 {
+  margin-top: 50px;
+  font-size: 25px;
+  text-align: center;
+  margin-left: 50px;
 }
