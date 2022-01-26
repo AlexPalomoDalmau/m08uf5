@@ -101,7 +101,7 @@ body {
 }
 .creador {
   font-size: 20px;
-  margin-top: 400px;
+  margin-top: 380px;
   margin-left: 1650px;
   color: green;
 }
@@ -197,4 +197,13 @@ body {
   font-size: 25px;
   text-align: center;
   margin-left: 50px;
+}
+
+#noria {
+  background-image: url(https://giffiles.alphacoders.com/200/200402.gif);
+}
+.div1 {
+  width: 600px;
+  height: 600px;
+  position: absolute;
 }
