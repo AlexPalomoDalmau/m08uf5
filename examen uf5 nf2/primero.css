@@ -114,7 +114,7 @@ body {
   margin-left: 250px;
 }
 #kizu33 {
-  margin-top: 30px;
+  margin-top: 40px;
   text-align: left;
   font-size: 25px;
   margin-left: 50px;
@@ -126,4 +126,11 @@ body {
   width: 800px;
   height: 600px;
   margin-left: 100px;
+}
+
+#titulo {
+  font-size: 40px;
+  color: #335C4E;
+  margin-top: 30px;
+  margin-left: 55px;
 }
