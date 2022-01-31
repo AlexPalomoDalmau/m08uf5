@@ -134,6 +134,7 @@ body {
   margin-left: 100px;
 }
 
+
 #titulo {
   font-size: 40px;
   color: #335C4E;
@@ -207,3 +208,45 @@ body {
   height: 600px;
   position: absolute;
 }
+
+.muchos {
+  height: 520px;
+  width: 570px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+
+
+#a1 {
+  color: red;
+  font-size: 30px;
+  margin-left: 280px;
+}
+
+#a2 {
+  font-size: 20px;
+  margin-left: 310px;
+}
+#b2 {
+  font-size: 20px;
+  margin-left: 295px;
+}
+#a3 {
+  color: green;
+  margin-left: 270px;
+  font-size: 20px;
+}
+#b3 {
+  color: red;
+  font-size: 30px;
+  margin-left: 270px;
+ }
+#a4 {
+  margin-top: 30px;
+}
+.aaaaa {
+  float: left;
+}
+
+
