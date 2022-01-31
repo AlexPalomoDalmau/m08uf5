@@ -59,3 +59,21 @@ div>div:hover {
     margin-left: 1300px;
 }
 
+.footer {
+    background-color: #335C4E;
+    text-align: center;
+    color: white;
+    margin-top: 85px;
+}
+.footer1 {
+    background-color: #335C4E;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+.footer2 {
+    background-color: #335C4E;
+    text-align: center;
+    color: white;
+    margin-top: 889px;
+}
