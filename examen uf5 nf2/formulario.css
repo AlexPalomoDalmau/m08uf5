@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    color: #335C4E;
+    margin-top: 50px;
+    font-size: 40px;
+}
+legend {
+    font-size: 27px;
+}
+
+.infbas {
+    background-color: #AAACA6;
+    text-align: left;
+    margin-top: 30px;
+    height: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.nacio {
+    background-color: #40D7AC;
+    text-align: left;
+    height: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.est {
+    background-color: #108483;
+    text-align: left;
+    height: 210px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.idi {
+    background-color: #05A649;
+    text-align: left;
+    height: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.final {
+    background-color: grey;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}

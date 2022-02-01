@@ -28,9 +28,91 @@
       </nav>
     </div>
   </header>
-  
+  <h1>Formulario</h1>
+    <form>
+    <fieldset>
+        <fieldset class="infbas">
+            <legend><u>Informacion Basica</u></legend>
+            <br>
+            <label for="fname">Nombre</label>
+            <br>
+            <br>
+            <input type="text" name="fname" id="fname" placeholder="Introduce tu nombre">
+            <br>
+            <br>
+            <label for="email">Email</label>
+            <br>
+            <br>
+            <input type="text" name="email" id="email" placeholder="tuemail@dominio.com">
+            <br>
+            <br>
+            <label for="bdaymonth">Fecha Nacimiento</label>
+            <br>
+            <br>
+            <input type="date" name="bdaymonth" id="bdaymonth">
+
+        </fieldset>
+        <fieldset class="nacio">
+            <legend><u> Región</u></legend>
+            <input type="radio" name="Región" id="Española" value="ES" checked>
+            <label for="España">España</label>
+            <input type="radio" name="Región" id="Francia" value="FR" checked>
+            <label for="Francia">Francia</label>
+            <input type="radio" name="Región" id="Reino Unido" value="RU" checked>
+            <label for="Reino Unido">Reino Unido</label>
+            <input type="radio" name="Región" id="Union Europea" value="UE"> 
+            <label for="Union Europea">Union Europea(UE)</label>
+            <input type="radio" name="Región" id="America" value="AMR">
+            <label for="Americ">America</label>
+            <input type="radio" name="Región" id="Asia" value="AS">
+            <label for="Asia">Asia</label>
+            <input type="radio" name="Región" id="Oceania" value="OCE">
+            <label for="Oceania">Oceania</label>
+            <input type="radio" name="Región" id="Africa" value="Afr">
+            <label for="Africa">Africa</label>
+        </fieldset>
+        <fieldset class="est">
+            <legend><u>Productos</u></legend>
+            <br>
+            <select name="Productos" name="Productos" id="Productos">
+                <option value="Kizu">Kizu</option>
+                <option value="Nunu">Nunu</option>
+                <option value="Bone">Bone</option>
+            </select>
+            <br>
+            <br>
+            <label for="altura">Altura en centimetros</label>
+            <br>
+            <br>
+            <input type="number" name="altura" id="altura">
+            <br>
+            <br>
+            <label for="altura">Ancho en centimetros</label>
+            <br>
+            <br>
+            <input type="number" name="Ancho" id="ancho">
+        </fieldset>
+        <fieldset class="idi">
+            <legend><u>Idioma</u></legend>
+            <input type="checkbox" name="Castellano" id="Castellano">
+            <label for="Castellano">Castellano</label>
+            <input type="checkbox" name="Frances" id="Frances">
+            <label for="Frances">Frances</label>
+            <input type="checkbox" name="Ingles" id="Ingles">
+            <label for="Ingles">Ingles</label>
+            <input type="checkbox" name="Chino" id="Chino">
+            <label for="Chino">Chino</label>
+            <input type="checkbox" name="Otro" id="Otro">
+            <label for="Otro">Otro</label>
+        </fieldset>
+        <fieldset class="final">
+            <input type="submit" value="Enviar" name="Enviar">
+            <input type="button" value="Cancelar">
+        </fieldset>
+    </fieldset>
+    </form>
   <script src="js/header-1.js"></script>
-  <footer class="footer">AL Shop</footer>
+  <footer class="footer8">AL Shop</footer>
 </body>
 
 </html>
